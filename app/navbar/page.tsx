@@ -37,7 +37,7 @@ const Navbar = () => {
             href="/products"
             className="text-gray-300 hover:text-white transition-colors"
           >
-            Products
+            P
           </Link>
         </li>
       </ul>
