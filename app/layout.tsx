@@ -3,7 +3,7 @@ import Navbar from "./navbar/page";
 
 export const metadata = {
   title: "My Portfolio",
-  description: "A modern React/Next.js portfolio",
+  description: "A modern React/Next.j portfolio",
 };
 
 export default function RootLayout({
