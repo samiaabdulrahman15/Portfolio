@@ -1,6 +1,0 @@
-{
-  "version": 3,
-  "sources": [],
-  "sections": [
-    {"offset": {"line": 18, "column": 0}, "map": {"version":3,"sources":["file:///Users/samia.abdulrahman/workspace%20/react-project/app/products/page.tsx"],"sourcesContent":["import React from \"react\";\n\nexport default function ProductsPage() {\n  return (\n    <main className=\"min-h-screen flex items-center justify-center\">\n      <h1 className=\"text-3xl\">Products page</h1>\n    </main>\n  );\n}\n"],"names":[],"mappings":";;;;;;AAEe,SAAS;IACtB,qBACE,8OAAC;QAAK,WAAU;kBACd,cAAA,8OAAC;YAAG,WAAU;sBAAW;;;;;;;;;;;AAG/B"}}]
-}
