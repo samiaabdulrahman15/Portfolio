@@ -1,23 +1,49 @@
-*.log
-.DS_Store
-node_modules
-.cache
-dist
-.idea
-storybook-static
-.next
+# Dependencies
+/node_modules
 
-coverage
-.now
-.vscode
-.vercel
+# Build output
+/.next
+/out
+
+# Production
+/build
+
+# Debug logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Local env files
+.env
 .env.local
-*.iml
-target/
-build/
-.gradle
-test-report.html
-.eslint.report.json
-.eslintcache
-reports/
-.kiro/settings/lsp.json
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Next.js cache
+/.next/cache
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# TypeScript
+*.tsbuildinfo
+
+# Optional: Turbo repo cache
+.turbo
+
+# Optional: Yarn v2+
+.yarn/*
+!.yarn/releases
+!.yarn/plugins
+!.yarn/sdks
+!.yarn/versions
