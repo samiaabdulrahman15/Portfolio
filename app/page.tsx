@@ -27,7 +27,7 @@ export default function Home() {
 
             <div className="grid grid-cols-2 gap-5">
               <InfoCard
-                title="Frontend Developer"
+                title="Frontend "
                 subtitle="Building web apps using Next.js"
               />
               <InfoCard

@@ -11,7 +11,7 @@ export default function ExperiencePage() {
       <div className="relative z-10 text-center mb-12 animate-fadeIn">
         <h1 className="text-5xl font-bold mb-4">Experience</h1>
         <p className="text-gray-300 text-lg">
-          A summary of my technical experience and roles.
+          A summary of my technical experience and roles .
         </p>
       </div>
 
